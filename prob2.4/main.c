@@ -18,6 +18,5 @@ int main(int argc, const char * argv[]) {
     printf("x(-1) in 2's complement form: 1111 1111\n");
     printf("x is casted to y(unsigned), y intepreted as 255\n");
     
-    printf("Hello, World!\n");
     return 0;
 }
